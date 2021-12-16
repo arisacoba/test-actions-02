@@ -1,4 +1,4 @@
-name: 'UQ ServiceNow CI/CD Rollback App Nov v1.3'
+name: 'Test Actions'
 description: 'Initiate a rollback of a specified application to a specified version.'
 author: "ServiceNow"
 inputs:
