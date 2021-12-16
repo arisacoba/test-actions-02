@@ -1,4 +1,4 @@
-name: 'Test Actions'
+name: 'Test Actions 02v2'
 description: 'Initiate a rollback of a specified application to a specified version.'
 author: "ServiceNow"
 inputs:
